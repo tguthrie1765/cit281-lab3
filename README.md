@@ -1,3 +1,5 @@
+![img of arrow](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQARR2gGsENm1PVyRNbscpVWhIeLO8qhzhiGg&usqp=CAU)
+
 In this lab I learned more modern JS code, such as aroow functions. I was able to practice destructuring an object and using for in/ of syntax with arrays and objects.
 
 <br>
